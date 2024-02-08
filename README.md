@@ -3,7 +3,7 @@
 This is a simple parallax website created using HTML and CSS. The website consists of several sections with different background images, giving it a dynamic and visually appealing appearance.
 
 # Features
-  - arallax scrolling effect
+  - Parallax scrolling effect
   - Multiple sections with different background images
   - Responsive design for various screen sizes
 
