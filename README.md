@@ -10,10 +10,10 @@ This is a simple parallax website created using HTML and CSS. The website consis
 # Credits
 This project was created by [Syed Sabee Al Hassan].
 
-#Website Link
+# Website Link
 [Parallax Website Link](https://syedsabee.github.io/PARALLAX-WEBSITE/)
 
-#Output
+# Output
 
 https://github.com/SyedSabee/PARALLAX-WEBSITE/assets/145167243/b720dfd7-e08d-4c26-bb49-b3292662c6cf
 
